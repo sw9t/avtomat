@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avtomat", "avtomat\avtomat.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatLib", "AutomatLib\AutomatLib.csproj", "{EF7F9684-497C-435E-AA75-91ABFBB3904E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testiki", "testiki\testiki.csproj", "{F71BF6C1-ECAB-4559-9EA6-824CCF8ED3D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EF7F9684-497C-435E-AA75-91ABFBB3904E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF7F9684-497C-435E-AA75-91ABFBB3904E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF7F9684-497C-435E-AA75-91ABFBB3904E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71BF6C1-ECAB-4559-9EA6-824CCF8ED3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71BF6C1-ECAB-4559-9EA6-824CCF8ED3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71BF6C1-ECAB-4559-9EA6-824CCF8ED3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71BF6C1-ECAB-4559-9EA6-824CCF8ED3D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
